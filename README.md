@@ -16,6 +16,9 @@
 ### 主な利用シーン
 ・設計書工程での設計書作成～レビュー時に利用する。<br>スケジュールや設計書に対するレビューを1画面で行うことで管理資料を不要にする
 
+### 実装機能リスト
+https://docs.google.com/spreadsheets/d/168VE6iISFeggTuu4zjnOMBZqaQpMuPn3NJYRmTXNCoo/edit?usp=sharing
+
 ## 設計書
 後ほど作成予定
 ​
